@@ -19,7 +19,7 @@ His journals are written in Chinese with English words mixed in naturally. The t
 
 ### Step 1: Read context
 1. Read the last 2-3 journal entries from `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/DigitalBrain/📝 Journal/` (sort by filename descending, read the most recent ones)
-2. Read Jake's memory file at `~/.claude/projects/-Users-jake/memory/user_jake_profile.md` for personal context
+2. Read the user's memory index at `~/.claude/memory/MEMORY.md` (or wherever their Claude Code auto-memory lives — adjust path as needed), and follow the index to any feedback_*.md or project_*.md files that look relevant to this week's themes
 3. Identify the current week number by checking the last entry's 周记 number
 
 ### Step 2: Ask reflective questions
